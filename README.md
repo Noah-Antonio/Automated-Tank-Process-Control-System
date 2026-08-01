@@ -31,7 +31,7 @@ The system also includes operator controls for fill, discharge, emergency stop, 
 
 - **CODESYS**
 - **Factory I/O**
-- **- Modbus TCP/IP Communication**
+- **Modbus TCP/IP Communication**
 - **IEC 61131-3 Ladder Diagram (LD)**
 
 

@@ -72,7 +72,7 @@ The system also includes operator controls for fill, discharge, emergency stop, 
 | %QX32.1 | Discharge_Status_Light | Gray Light Indicator | Indicates active discharge control operation |
 | %QX32.2 | Reset_Status_Light | Blue Light Indicator | Indicates system reset status |
 
-### Analog Inputs
+### Register Inputs
 
 | Address | Tag | Device | Description |
 |---------|-----|--------|-------------|
@@ -81,7 +81,7 @@ The system also includes operator controls for fill, discharge, emergency stop, 
 | %IW2 | Level_SP | Potentiometer | Sets desired tank fill level setpoint |
 | %IW3 | Flow_SP | Potentiometer | Sets desired discharge flow rate setpoint |
 
-### Analog Outputs
+### Register Outputs
 
 | Address | Tag | Device | Description |
 |---------|-----|--------|-------------|

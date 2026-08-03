@@ -95,5 +95,4 @@ The system also includes operator controls for fill, discharge, emergency stop, 
 
 
 ## Demonstration
-
-Youtube Link
+https://youtu.be/NyKCPv7x8Uw
